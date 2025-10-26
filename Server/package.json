@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "morgan": "^1.10.1"
+  },
+  "name": "baby-stars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vedant-Rajput22/Baby-Stars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vedant-Rajput22/Baby-Stars/issues"
+  },
+  "homepage": "https://github.com/Vedant-Rajput22/Baby-Stars#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
